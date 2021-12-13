@@ -1,0 +1,13 @@
+name: Rewards
+main: me.vaape.rewards.Rewards
+version: 1.0
+api-version: 1.17
+commands:
+  givereward:
+    description: Gives reward
+  giveminingreward:
+    description: Gives mining reward
+  collect:
+    description: Collects rewards
+  addreward:
+    description: Create new reward or add to existing reward
